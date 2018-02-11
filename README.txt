@@ -1,3 +1,3 @@
-dframe-docs-pl
+dframe-docs
 
 Official repository documentation of dframe/dframe.
